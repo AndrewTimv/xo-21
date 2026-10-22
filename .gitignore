@@ -1,1 +1,6 @@
 # Пакет для web
+
+.idea
+.venv
+
+__pycache__
